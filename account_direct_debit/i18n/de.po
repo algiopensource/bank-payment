@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bank-payment (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-21 01:09+0000\n"
+"POT-Creation-Date: 2017-03-28 01:26+0000\n"
 "PO-Revision-Date: 2016-04-06 00:15+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: German (http://www.transifex.com/oca/OCA-bank-payment-8-0/language/de/)\n"
@@ -45,7 +45,7 @@ msgstr ""
 #. module: account_direct_debit
 #: view:payment.order:account_direct_debit.view_payment_order_form
 msgid "Invoices"
-msgstr ""
+msgstr "Rechnungen"
 
 #. module: account_direct_debit
 #: model:ir.model,name:account_direct_debit.model_account_move_line
