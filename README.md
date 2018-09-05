@@ -22,16 +22,17 @@ Other features can now be found in these repositories:
  * https://github.com/OCA/bank-statement-reconcile
 
 [//]: # (addons)
+
 Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
-[account_banking_mandate](account_banking_mandate/) | 8.0.0.2.0 | Banking mandates
-[account_banking_pain_base](account_banking_pain_base/) | 8.0.0.4.0 | Base module for PAIN file generation
+[account_banking_mandate](account_banking_mandate/) | 8.0.0.2.1 | Banking mandates
+[account_banking_pain_base](account_banking_pain_base/) | 8.0.0.4.1 | Base module for PAIN file generation
 [account_banking_payment_export](account_banking_payment_export/) | 8.0.0.3.0 | Account Banking - Payments Export Infrastructure
 [account_banking_payment_transfer](account_banking_payment_transfer/) | 8.0.0.3.1 | Account Banking - Payments Transfer Account
-[account_banking_sepa_credit_transfer](account_banking_sepa_credit_transfer/) | 8.0.0.5.0 | Create SEPA XML files for Credit Transfers
-[account_banking_sepa_direct_debit](account_banking_sepa_direct_debit/) | 8.0.0.5.0 | Create SEPA files for Direct Debit
+[account_banking_sepa_credit_transfer](account_banking_sepa_credit_transfer/) | 8.0.0.5.1 | Create SEPA XML files for Credit Transfers
+[account_banking_sepa_direct_debit](account_banking_sepa_direct_debit/) | 8.0.0.5.1 | Create SEPA files for Direct Debit
 [account_banking_tests](account_banking_tests/) | 8.0.0.1.0 | Banking Addons - Tests
 [account_direct_debit](account_direct_debit/) | 8.0.2.1.0 | Direct Debit
 [account_import_line_multicurrency_extension](account_import_line_multicurrency_extension/) | 8.0.1.1.0 | Add an improved view for move line import in bank statement
@@ -45,6 +46,7 @@ addon | version | summary
 [account_payment_transfer_reconcile_batch](account_payment_transfer_reconcile_batch/) | 8.0.1.0.0 | Batch Reconciliation for transfer moves
 [account_voucher_killer](account_voucher_killer/) | 8.0.1.0.0 | Accounting voucher killer
 [portal_payment_mode](portal_payment_mode/) | 8.0.1.0.0 | Adds payment mode ACL's for portal users
+
 
 Unported addons
 ---------------
